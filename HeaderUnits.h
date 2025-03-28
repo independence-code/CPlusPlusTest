@@ -1,0 +1,10 @@
+#pragma once
+import <iostream>;
+import <string>;
+import <vector>;
+import "format";
+import "DirectXMath.h";
+import "DirectXMath.h";
+import "DirectXPackedVector.h";
+import "windows.h";
+import "iostream";

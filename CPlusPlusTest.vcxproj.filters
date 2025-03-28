@@ -18,5 +18,17 @@
     <ClCompile Include="test.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="HeaderUnits.h">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="XMVectorTest.ixx">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="config.ixx">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="config.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
